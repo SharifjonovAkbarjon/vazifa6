@@ -1,0 +1,177 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.heading{
+    text-align: center;
+}
+
+
+.wrapper{
+    padding: 30px;
+    /* border: 1px solid red; */
+    
+    display: flex;
+    
+    flex-direction: row;
+    
+    
+    align-items: center;
+    
+    justify-content: baseline;
+    
+    flex-wrap: wrap;
+    
+    /* box-shadow: 0 0 25px #000200; */
+    gap: 30px; }
+
+    .react{
+        width: 150px;
+        height: 150px;
+        background: white;
+        border-radius: 50%;
+        box-shadow: 0 0 25px #000200;
+        box-shadow: 0 0 25px #000200;
+        
+    }
+    
+    .react__img{
+        width: 100%;
+        border-radius: 50%;
+        height: 100%;
+
+    }
+
+    .card1__para{
+        display: flex;
+        text-align: center;
+        align-items: center;
+        padding: auto;
+    }
+    
+    .picture2{
+        width: 100%;
+        height: 100%;
+        border-radius: 50%;
+    }
+
+    .picture3{
+        width: 100%;
+        height: 100%;
+        border-radius: 50%;
+    }
+
+    .picture4{
+        width: 100%;
+        height: 100%;
+        border-radius: 50%;
+    }
+
+    .picture5{
+        width: 100%;
+        height: 100%;
+        border-radius: 50%;
+    }
+
+    .picture6{
+        width: 100%;
+        height: 100%;
+        border-radius: 50%;
+    }
+
+    .picture7{
+        width: 100%;
+        height: 100%;
+        border-radius: 50%;
+    }
+
+    .picture8{
+        width: 100%;
+        height: 100%;
+        border-radius: 50%;   
+    }
+
+    .picture9{
+        width: 100%;
+        height: 100%;
+        border-radius: 50%;
+    }
+
+    .picture10{
+        width: 100%;
+        height: 100%;
+        border-radius: 50%;
+    }
+
+    .picture11{
+        width: 100%;
+        height: 100%;
+        border-radius: 50%;
+    } 
+
+    .picture12{
+        width: 100%;
+        height: 100%;
+        border-radius: 50%;
+    }
+
+    .card__animals{
+        display: block;
+        text-align: center;
+    }
+    .card__bag{
+        display: block;
+        text-align: center;
+    }
+
+    .card__transport{
+        display: block;
+        text-align: center;
+    }
+
+    .card__child{
+        display: block;
+        text-align: center;
+    }
+    .card__furniture{
+        display: block;
+        text-align: center;
+    }
+
+    .card__propety{
+        display: block;
+        text-align: center;
+    }
+
+    .card__free{
+        display: block;
+        text-align: center;
+
+    }
+    
+    .card__fashion{
+        display: block;
+        text-align: center;
+    }
+
+    .card__biznes{
+        display: block;
+        text-align: center;
+    }
+
+    .card__electro{
+        display: block;
+        text-align: center;
+    }
+
+    .card__sport{
+        display: block;
+        text-align: center;
+    }
+
+    .card__exchange{
+        display: block;
+        text-align: center;
+    }
